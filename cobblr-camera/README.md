@@ -4,7 +4,7 @@ This was created in Fusion360. You can find a 3D rendering of it [here](http://a
 
 Ths is a picture of the project in Fusion360.
 
-![cobblr-camera](cobblr_camera.jpg)
+![cobblr-camera](cobblr_cad.png)
 
 Here are some pictures of the completed project.
 
